@@ -1,0 +1,1316 @@
+﻿1,Wound Ostomy,00,00,Unclassified
+1,WOUND OSTOMY,39,39,General Internal Med
+1,Wound Healing,39,39,General Internal Med
+1,Wound Care,00,00,Unclassified
+37,WOUND CARE,39,39,General Internal Med
+8,Wound Care,E1,E1,Allied Health Professional - Other
+1,Women's Health,52,52,General OB/Gyn
+1,WOMENS HEALTH,00,00,Unclassified
+1,Women's Clinic,00,00,Unclassified
+1,WITHOUT PRIVILEGES,00,00,Unclassified
+1,Wellness,00,00,Unclassified
+2,WELLNESS,E1,E1,Allied Health Professional - Other
+2,Weight Management,39,39,General Internal Med
+1,Vasular Surgery,83,83,Vascular Surg
+1,"Vascular Surgery, Ge",83,83,Vascular Surg
+54,Vascular Surgery,83,83,Vascular Surg
+1,VASCULAR NEUROLOGY,50,50,Neurosurgery
+2,VASCULAR MEDICINE,39,39,General Internal Med
+1,Vascular Med,83,83,Vascular Surg
+1,Vascular Interventio,75,75,Gen Diag/Interv Radiology
+1,Vascular Access,75,75,Gen Diag/Interv Radiology
+2,Vascular & Intervent,75,75,Gen Diag/Interv Radiology
+6,VASC SURGERY,83,83,Vascular Surg
+2,Vas.& Interventional,75,75,Gen Diag/Interv Radiology
+1,UVEC,99,99,Unknown
+1,Utilization Manageme,00,00,Unclassified
+1,"Urology, Urologic On",C0,C0,Urology Medical
+1,"Urology, Endocrine",C0,C0,Urology Medical
+1,Urology Med,C0,C0,Urology Medical
+1,UROLOGY - PEDIATRIC,61,61,General Pediatrics
+2,Urology,44,44,General Neurology
+14,UROLOGY,82,82,Urology Surgical
+45,Urology,C0,C0,Urology Medical
+2,Urological Surgery,82,82,Urology Surgical
+1,Urological Surg,82,82,Urology Surgical
+1,UROLOGIC SURGERY,82,82,Urology Surgical
+1,Urologic Oncology,C0,C0,Urology Medical
+32,Urogynecology,52,52,General OB/Gyn
+1,Urgent Care Medicine,25,25,Family Practice
+9,Urgent Care,00,00,Unclassified
+36,URGENT CARE,25,25,Family Practice
+1,UNSPECIFIED,"0 ","0 ",UNKNOWN
+2,UNSPECIFIED,00,00,Unclassified
+1,Unknown Physician Specialty,"0 ","0 ",UNKNOWN
+2,UNKNOWN PHYSICIAN SP,00,00,Unclassified
+2,Unknown Physician Sp,99,99,Unknown
+2,Unknown,0,"0 ",UNKNOWN
+2,Undersea & Hyperbari,D6,D6,Undersea/Hyperbaric Medicine
+2,Uhs Student Health,00,00,Unclassified
+1,UHS Mental Health,00,00,Unclassified
+1,Uhs Mental Health,59,59,General Psychiatry
+2,Uch Vascular Surgery,83,83,Vascular Surg
+2,UCH Urology,C0,C0,Urology Medical
+2,Uch Trauma,80,80,Trauma
+2,UCH Transplant Surge,A7,A7,Transplantation
+2,Uch Transplant Hepat,A7,A7,Transplantation
+2,UCH Thoracic Surgery,C5,C5,Thoracic Surgery
+2,Uch Surgical Oncolog,A4,A4,Oncologic Surg
+1,UCH Psychology,00,00,Unclassified
+1,Uch Psychology,59,59,General Psychiatry
+2,Uch Psychiatry,59,59,General Psychiatry
+2,UCH Podiatric Surger,B8,B8,Podiatry
+2,Uch Plastic Surgery,71,71,Plastic Surg
+2,UCH Physician Assist,C6,C6,Physician Assistant – Medicine
+2,Uch Physical Medicin,69,69,Physical Med/Rehab
+2,UCH Pediatrics,61,61,General Pediatrics
+2,Uch Pathology,72,72,Anatomic/Clinical Path
+2,UCH Pain Medicine,85,85,Pain Management
+2,Uch Otolaryngology,58,58,Otolaryn/Head&Neck
+2,UCH Orthopedics,57,57,Orthopedic Surg
+2,Uch Orthopedic Surge,57,57,Orthopedic Surg
+2,UCH Oral Surgery,A0,A0,Dent/Oral Surg
+2,Uch Oral Maxillofaci,A0,A0,Dent/Oral Surg
+2,UCH Obstetrics and G,52,52,General OB/Gyn
+2,Uch Nutrition,00,00,Unclassified
+2,UCH NEURORADIOLOGY S,99,99,Unknown
+2,Uch Neurology,44,44,General Neurology
+2,UCH Interventional R,75,75,Gen Diag/Interv Radiology
+1,UCH Interventional P,73,73,Pulmonary/Crit Care
+1,Uch Interventional P,99,99,Unknown
+2,Uch Internal Medicin,39,39,General Internal Med
+2,UCH Integrative Medi,39,39,General Internal Med
+2,Uch Hospitalist,C2,C2,Hospitalist
+2,UCH Hematology and O,A3,A3,Internal Med Heme/Onc
+2,Uch Hematology,A3,A3,Internal Med Heme/Onc
+2,UCH Heart Transplant,A7,A7,Transplantation
+2,Uch Heart Failure,10,10,Cardiology
+2,UCH Gynecology,52,52,General OB/Gyn
+1,UCH Geriatric Medici,00,00,Unclassified
+1,Uch Geriatric Medici,28,28,Geriatrics
+2,Uch General Surgery,32,32,General Surgery
+2,UCH Gastroenterology,27,27,Gastroenterology
+2,Uch Family Medicine,25,25,Family Practice
+1,UCH Epilepsy,00,00,Unclassified
+1,Uch Epilepsy,44,44,General Neurology
+2,Uch Endocrinology,23,23,Endocrinology
+2,UCH Emergency Medici,22,22,Emergency Med
+2,Uch Dermatology,17,17,Dermatology
+1,UCH Clinical Psychol,00,00,Unclassified
+1,Uch Clinical Psychol,59,59,General Psychiatry
+2,Uch Cardiology,10,10,Cardiology
+2,UCH Breast Imaging,75,75,Gen Diag/Interv Radiology
+2,UCH BEHAVIORAL NEURO,99,99,Unknown
+2,Uch Bariatric Surger,D4,D4,Bariatric Surgery
+2,UCH Anesthesiology,06,06,Anesthesia
+2,Uch Addiction Disord,A1,A1,Addiction
+2,UCH Acupuncture,00,00,Unclassified
+1,Travel Medicine,00,00,Unclassified
+45,Trauma Surgery,80,80,Trauma
+4,TRAUMA,80,80,Trauma
+1,Transplant Surgery M,A7,A7,Transplantation
+14,Transplant Surgery,A7,A7,Transplantation
+2,Transplant Surgery,B7,B7,Transplant Medicine
+2,Transplant Nephrolog,A7,A7,Transplantation
+3,Transplant Medicine,A7,A7,Transplantation
+8,Transplant Hepatology,B7,B7,Transplant Medicine
+10,Transplant Hepatolog,A7,A7,Transplantation
+1,Transplant Hepatolog,C7,C7,Hepatology
+25,TRANSPLANT COORDINAT,A7,A7,Transplantation
+45,Transplant,A7,A7,Transplantation
+1,Transplant,B7,B7,Transplant Medicine
+2,TRANSITIONAL CARE UN,00,00,Unclassified
+1,TRANSITIONAL,00,00,Unclassified
+2,TRANSFUSION MEDICINE,00,00,Unclassified
+1,TOBACCO TREATMENT,A1,A1,Addiction
+1,Thoracic-vascular Su,C5,C5,Thoracic Surgery
+1,"Thoracic Surgery, Va",C5,C5,Thoracic Surgery
+1,"Thoracic Surgery, Ge",C5,C5,Thoracic Surgery
+1,Thoracic Surgery Med,C5,C5,Thoracic Surgery
+1,THORACIC SURGERY (CA,C5,C5,Thoracic Surgery
+21,Thoracic Surgery,C5,C5,Thoracic Surgery
+1,Thoracic Surg,C5,C5,Thoracic Surgery
+1,THORACIC MEDICINE,C5,C5,Thoracic Surgery
+1,Thoracic Diseases,37,37,Infectious Disease
+8,Thoracic Diseases,73,73,Pulmonary/Crit Care
+33,Thoracic Diseases,C5,C5,Thoracic Surgery
+3,Therapeutic Recreati,00,00,Unclassified
+1,THERAPEUTIC RADIOLOG,75,75,Gen Diag/Interv Radiology
+2,TELERAD,75,75,Gen Diag/Interv Radiology
+2,TELEPSYCHIATRY,59,59,General Psychiatry
+1,TELE-NEUROLOGY,B5,B5,Teleradiology
+2,TELENEUROLOGY,44,44,General Neurology
+2,Surgical Services,32,32,General Surgery
+1,"Surgical Oncology, G",A4,A4,Oncologic Surg
+48,Surgical Oncology,A4,A4,Oncologic Surg
+1,SURGICAL CRITICAL CA,80,80,Trauma
+1,Surgical Crit Care (,D7,D7,Surgical Critical Care
+25,SURGICAL ASSISTANT,00,00,Unclassified
+1,SURGERY-TRAUMA,80,80,Trauma
+1,SURGERY-PLASTIC AND,71,71,Plastic Surg
+1,Surgery/hospice And,D3,D3,Palliative Care
+1,SURGERY- CRITICAL CA,D7,D7,Surgical Critical Care
+1,SURGERY - VASCULAR S,83,83,Vascular Surg
+1,SURGERY - VASCULAR,83,83,Vascular Surg
+1,SURGERY - THORACIC,C5,C5,Thoracic Surgery
+1,SURGERY - SURGICAL O,32,32,General Surgery
+1,SURGERY - SURGICAL C,32,32,General Surgery
+1,SURGERY - SURGERY OF,32,32,General Surgery
+1,SURGERY - PLASTIC AN,71,71,Plastic Surg
+1,SURGERY - PLASTIC,71,71,Plastic Surg
+2,SURGERY - PEDIATRIC,66,66,Pediatric Surgery
+1,SURGERY - ORTHOPAEDI,57,57,Orthopedic Surg
+1,SURGERY - ORAL AND M,32,32,General Surgery
+1,SURGERY - NEUROLOGIC,50,50,Neurosurgery
+1,SURGERY - HAND,36,36,Hand Surgery
+1,SURGERY - GENERAL,32,32,General Surgery
+1,SURGERY - CARDIOVASC,83,83,Vascular Surg
+19,SURGERY,32,32,General Surgery
+1,SUPPORTIVE CARE,00,00,Unclassified
+6,Student In An Organi,00,00,Unclassified
+2,Student Health,00,00,Unclassified
+25,Stroke Neurology,44,44,General Neurology
+1,STEM CELL TRANSPLANT,00,00,Unclassified
+48,SPORTS MEDICINE,C4,C4,Sports Medicine
+1,Sports Med(phy & Reh,C4,C4,Sports Medicine
+1,Sports Med(orthop Su,C4,C4,Sports Medicine
+1,Sports Med(family Me,C4,C4,Sports Medicine
+3,Spiritual Care,00,00,Unclassified
+1,SPINE SURGERY,50,50,Neurosurgery
+7,Spine Surgery,57,57,Orthopedic Surg
+1,Speech Therapy Med,54,54,Prev / Occ Med
+45,Speech Pathology,D5,D5,Audiology/Speech Pathology
+1,Speech Language Path,D5,D5,Audiology/Speech Pathology
+1,SPEECH LANG PATH,D5,D5,Audiology/Speech Pathology
+4,SPECIALIST,00,00,Unclassified
+2,Social Worker,00,00,Unclassified
+8,Social Worker,E1,E1,Allied Health Professional - Other
+2,SOCIAL WORK,00,00,Unclassified
+9,Social Services,00,00,Unclassified
+25,SLEEP TECHNOLOGIST,39,39,General Internal Med
+1,Sleep Study Med,00,00,Unclassified
+3,Sleep Medicine,00,00,Unclassified
+35,Sleep Medicine,39,39,General Internal Med
+8,Sleep Medicine,73,73,Pulmonary/Crit Care
+1,SLEEP DISORDERS MEDI,39,39,General Internal Med
+1,Sleep Center/Medicin,39,39,General Internal Med
+7,Skilled Nursing Faci,00,00,Unclassified
+1,Scrub And Assist,00,00,Unclassified
+1,SARCOMA SURGERY,17,17,Dermatology
+1,SARCOMA,17,17,Dermatology
+1,RN-NEONATAL INTENSIV,00,00,Unclassified
+1,Rn Surgical Asst,00,00,Unclassified
+1,Rheumatology Med,77,77,Rheumatology
+55,Rheumatology,77,77,Rheumatology
+37,Retina Ophthalmology,56,56,Ophthalmology
+2,Respiratory Therapy,00,00,Unclassified
+34,Respiratory Therapy,39,39,General Internal Med
+1,RESPIRATORY THERAPY,D9,D9,Allied Health Professional - Medical
+1,RESPIRATORY THERAPY,E1,E1,Allied Health Professional - Other
+25,Respiratory Therapis,39,39,General Internal Med
+1,RESPIRATORY CARE,39,39,General Internal Med
+1,Respiratory,39,39,General Internal Med
+1,Residential Treatmen,"0 ","0 ",UNKNOWN
+2,Residential Treatmen,99,99,Unknown
+26,RESEARCH,00,00,Unclassified
+8,Reproductive Endocrinology and Infertility,76,76,Reproductive Endo
+34,Reproductive Endocri,52,52,General OB/Gyn
+2,Reproductive Endocri,76,76,Reproductive Endo
+1,Reprod Endocr & Infe,76,76,Reproductive Endo
+1,Remote Monitoring,00,00,Unclassified
+1,RELIGIOUS COUNSELING,00,00,Unclassified
+1,REHAB-PAIN MEDICINE,69,69,Physical Med/Rehab
+1,REHAB-PAIN MEDICINE,85,85,Pain Management
+3,Rehabilitation Hospi,69,69,Physical Med/Rehab
+1,Rehabilitation Couns,00,00,Unclassified
+41,Rehabilitation,69,69,Physical Med/Rehab
+1,Rehab Psychology,00,00,Unclassified
+1,Rehab Medicine,69,69,Physical Med/Rehab
+2,REHAB,69,69,Physical Med/Rehab
+25,REGISTERED NURSE - S,00,00,Unclassified
+29,Registered Nurse,00,00,Unclassified
+1,REGISTER NURSE,00,00,Unclassified
+1,REFERRAL,00,00,Unclassified
+2,Recreational Therapy,00,00,Unclassified
+1,Rad-vascular & Inter,75,75,Gen Diag/Interv Radiology
+2,Rad-radiation Oncolo,79,79,Rad Onc / Rx Radiology
+25,RADIOLOGY-TELEMEDICI,75,75,Gen Diag/Interv Radiology
+1,Radiology/Radiation,75,75,Gen Diag/Interv Radiology
+1,Radiology/Neuroradio,75,75,Gen Diag/Interv Radiology
+25,RADIOLOGY RESIDENT,75,75,Gen Diag/Interv Radiology
+1,Radiology Med,75,75,Gen Diag/Interv Radiology
+1,Radiology Interventi,75,75,Gen Diag/Interv Radiology
+1,Radiology Diagnostic,75,75,Gen Diag/Interv Radiology
+27,RADIOLOGY - VASCULAR,75,75,Gen Diag/Interv Radiology
+1,RADIOLOGY - RADIATIO,75,75,Gen Diag/Interv Radiology
+1,RADIOLOGY - PEDIATRI,75,75,Gen Diag/Interv Radiology
+1,RADIOLOGY - NUCLEAR,75,75,Gen Diag/Interv Radiology
+1,RADIOLOGY - NEURORAD,75,75,Gen Diag/Interv Radiology
+1,Radiology - Interven,75,75,Gen Diag/Interv Radiology
+3,Radiology - Diagnost,75,75,Gen Diag/Interv Radiology
+50,RADIOLOGY,75,75,Gen Diag/Interv Radiology
+1,Radiologist,75,75,Gen Diag/Interv Radiology
+36,Radiation Therapy,79,79,Rad Onc / Rx Radiology
+1,Radiation Oncology M,79,79,Rad Onc / Rx Radiology
+53,Radiation Oncology,79,79,Rad Onc / Rx Radiology
+2,Rad-diagnostic Radio,75,75,Gen Diag/Interv Radiology
+1,"Rad,vascular Interve",75,75,Gen Diag/Interv Radiology
+1,Pulmonology/im,73,73,Pulmonary/Crit Care
+4,PULMONOLOGY,73,73,Pulmonary/Crit Care
+1,Pulmonary/Critical C,73,73,Pulmonary/Crit Care
+3,Pulmonary Transplant,B7,B7,Transplant Medicine
+1,PULMONARY MEDICINE,73,73,Pulmonary/Crit Care
+1,Pulmonary Function T,73,73,Pulmonary/Crit Care
+1,PULMONARY DISEASES,73,73,Pulmonary/Crit Care
+1,"Pulmonary Disease, I",73,73,Pulmonary/Crit Care
+1,"Pulmonary Disease, C",73,73,Pulmonary/Crit Care
+1,Pulmonary Disease Me,73,73,Pulmonary/Crit Care
+53,Pulmonary Disease,73,73,Pulmonary/Crit Care
+1,Pulmonary Crit Care,73,73,Pulmonary/Crit Care
+25,PULMONARY - TELEMEDI,73,73,Pulmonary/Crit Care
+3,Pulmonary,73,73,Pulmonary/Crit Care
+1,Psychology Med,00,00,Unclassified
+37,Psychology,59,59,General Psychiatry
+9,Psychology,C1,C1,Psychologist
+2,PSYCHOLOGIST COUNSELING,C1,C1,Psychologist
+1,PSYCHOLOGIST,C1,C1,Psychologist
+25,PSYCHOLOGICAL EXAMIN,59,59,General Psychiatry
+1,Psychoanalysis,D9,D9,Allied Health Professional - Medical
+1,PSYCHINEUR-SLEEP MED,59,59,General Psychiatry
+1,PSYCHINEUR-PSYCHIATR,59,59,General Psychiatry
+2,PSYCHINEUR-NEUROLOGY,59,59,General Psychiatry
+1,Psychiatry/neurology,59,59,General Psychiatry
+1,"Psychiatry, Child Ps",13,13,Child/Adoles Psych
+1,"Psychiatry, Child An",13,13,Child/Adoles Psych
+1,Psychiatry Med,59,59,General Psychiatry
+1,Psychiatry Child & A,59,59,General Psychiatry
+1,Psychiatry and Neuro,59,59,General Psychiatry
+1,PSYCHIATRY & NEUROLO,59,59,General Psychiatry
+25,PSYCHIATRY - TELEMED,59,59,General Psychiatry
+55,PSYCHIATRY,59,59,General Psychiatry
+3,Psychiatric Hospital,59,59,General Psychiatry
+1,Psychiatric,59,59,General Psychiatry
+1,PSYCH & NEURO - PSYC,59,59,General Psychiatry
+1,PSYCH & NEURO - NEUR,59,59,General Psychiatry
+1,PSYCH & NEURO - FORE,59,59,General Psychiatry
+1,PSYCH & NEURO - CLIN,59,59,General Psychiatry
+1,PSYCH & NEURO - CHIL,13,13,Child/Adoles Psych
+1,PSYCH & NEURO - ADDI,A1,A1,Addiction
+4,PSYCH,59,59,General Psychiatry
+6,Prosthodontics,A0,A0,Dent/Oral Surg
+8,Prosthodontics,E1,E1,Allied Health Professional - Other
+1,Professional Counsel,00,00,Unclassified
+5,PROCTOLOGY,00,00,Unclassified
+8,Proctology,B2,B2,Colorectal Surgery
+1,PRIMARY CARE,25,25,Family Practice
+1,Prevntv-undersea And,25,25,Family Practice
+5,Preventive Medicine,25,25,Family Practice
+1,PREVENTIVE MED - PUB,54,54,Prev / Occ Med
+1,PREVENTIVE MED - PRE,54,54,Prev / Occ Med
+1,PREVENTIVE MED - OCC,54,54,Prev / Occ Med
+1,PREVENTIVE MED - AER,54,54,Prev / Occ Med
+1,Preventive Med,25,25,Family Practice
+8,Preventative Medicine,54,54,Prev / Occ Med
+35,Preventative Medicin,25,25,Family Practice
+1,Preventative Medicin,54,54,Prev / Occ Med
+1,Podiatry Med,B8,B8,Podiatry
+56,Podiatry,B8,B8,Podiatry
+2,"PODIATRIST, FOOT & A",B8,B8,Podiatry
+1,PODIATRIST - FOOT &,B8,B8,Podiatry
+1,PODIATRIST,A0,A0,Dent/Oral Surg
+1,PODIATRIST,B8,B8,Podiatry
+3,Podiatric Surgery,B8,B8,Podiatry
+1,PLASTIC/RECONST SURG,71,71,Plastic Surg
+1,"Plastic Surgery, Sur",71,71,Plastic Surg
+1,"Plastic Surgery, Ger",71,71,Plastic Surg
+1,"Plastic Surgery, Gen",71,71,Plastic Surg
+1,Plastic Surgery Med,D0,D0,Nurse Practitioner - Medicine
+50,Plastic Surgery,71,71,Plastic Surg
+1,Plastic and Reconstructive Surgery,71,71,Plastic Surg
+3,PLASTIC AND RECONSTR,71,71,Plastic Surg
+6,PLASTIC & RECONSTRUCTIVE,71,71,Plastic Surg
+1,Physiciatry,59,59,General Psychiatry
+46,Physician Assistant,C6,C6,Physician Assistant – Medicine
+6,PHYSICIAN ASSISTANT,E1,E1,Allied Health Professional - Other
+2,PHYSICAL THERAPY STU,99,99,Unknown
+1,Physical Therapy Med,69,69,Physical Med/Rehab
+35,Physical Therapy,54,54,Prev / Occ Med
+2,Physical Therapy,69,69,Physical Med/Rehab
+8,Physical Therapy,E1,E1,Allied Health Professional - Other
+25,PHYSICAL THERAPIST A,69,69,Physical Med/Rehab
+3,Physical Therapist,54,54,Prev / Occ Med
+1,PHYSICAL MEDICINE/RE,69,69,Physical Med/Rehab
+8,Physical Medicine and Rehabilitation,69,69,Physical Med/Rehab
+38,Physical Medicine an,69,69,Physical Med/Rehab
+1,Physical Medicine &,69,69,Physical Med/Rehab
+2,PHYSICAL MEDICINE,69,69,Physical Med/Rehab
+1,Physical Med. Rehab.,69,69,Physical Med/Rehab
+3,PHYSICAL MED & REHAB,69,69,Physical Med/Rehab
+25,PHYSICAL AND OCCUPAT,69,69,Physical Med/Rehab
+1,Physiatrist/pain Mgt,59,59,General Psychiatry
+1,PHYS THERAPIST,69,69,Physical Med/Rehab
+1,PHYS MED & REHAB - S,69,69,Physical Med/Rehab
+1,PHYS MED & REHAB - P,69,69,Physical Med/Rehab
+3,Phys Med & Rehab,69,69,Physical Med/Rehab
+1,PHYS ASST SURGICAL,C8,C8,Physician Assistant – Surgery
+1,PHYS ASST - MEDICAL,C6,C6,Physician Assistant – Medicine
+1,PHYS ASST,C6,C6,Physician Assistant – Medicine
+1,PHERESIS,0,"0 ",UNKNOWN
+36,PHARMACY,60,60,Pharmacology
+1,PHARMACOLOGY - CLINI,60,60,Pharmacology
+1,Pharmacokinetic,60,60,Pharmacology
+28,PHARMACIST,60,60,Pharmacology
+8,Pharmacist,E1,E1,Allied Health Professional - Other
+1,Peripheral Vascular,83,83,Vascular Surg
+34,Periodontics,A0,A0,Dent/Oral Surg
+8,Periodontics,E1,E1,Allied Health Professional - Other
+35,Perinatology,48,48,Neo / Perinatal Med
+29,PERFUSIONIST,00,00,Unclassified
+1,Perfusion,00,00,Unclassified
+1,PEDS - PEDIATRIC RHE,88,88,Pediatric Rheumatology
+1,PEDS - PEDIATRIC PUL,A6,A6,Pediatric Pulm/Crit Care
+1,PEDS - PEDIATRIC NEP,70,70,Pediatric Nephrology
+1,PEDS - PEDIATRIC INF,87,87,Pediatric Infectious Dis
+1,PEDS - PEDIATRIC HEM,68,68,Pediatric Heme/Onc
+1,PEDS - PEDIATRIC GAS,A8,A8,Pediatric Gastroenter
+1,PEDS - PEDIATRIC END,64,64,Pediatric Endocrinology
+1,PEDS - PEDIATRIC EME,61,61,General Pediatrics
+1,PEDS - PEDIATRIC CRI,61,61,General Pediatrics
+1,PEDS - PEDIATRIC CAR,63,63,Pediatric Cardiology
+1,PEDS - PEDIATRIC ALL,62,62,Pediatric Allergy/Imm
+1,PEDS - NEONATAL-PERI,48,48,Neo / Perinatal Med
+1,PEDS - DEVELOPMENTAL,61,61,General Pediatrics
+1,PEDS - ADOLESCENT ME,86,86,Adolescent Med
+16,Pedodontics,A0,A0,Dent/Oral Surg
+2,PED-NEONATAL-PERINAT,48,48,Neo / Perinatal Med
+1,Pediatrics/Pediatric,61,61,General Pediatrics
+1,"Pediatrics, Pediatri",61,61,General Pediatrics
+1,"Pediatrics, Neonatol",48,48,Neo / Perinatal Med
+1,"Pediatrics, Neonatal",48,48,Neo / Perinatal Med
+1,"Pediatrics, Allergy",62,62,Pediatric Allergy/Imm
+1,Pediatrics Med,61,61,General Pediatrics
+1,PEDIATRICS,00,00,Unclassified
+50,PEDIATRICS,61,61,General Pediatrics
+34,Pediatric Urology,61,61,General Pediatrics
+10,Pediatric Urology,C0,C0,Urology Medical
+1,PEDIATRIC UROLOGIC S,66,66,Pediatric Surgery
+1,Pediatric Transplant,66,66,Pediatric Surgery
+1,PEDIATRIC THORACIC S,66,66,Pediatric Surgery
+3,PEDIATRIC SURGERY -,66,66,Pediatric Surgery
+48,PEDIATRIC SURGERY,66,66,Pediatric Surgery
+1,PEDIATRIC STEM CELL,61,61,General Pediatrics
+1,PEDIATRIC SPORTS MED,C4,C4,Sports Medicine
+8,Pediatric Rheumatology,88,88,Pediatric Rheumatology
+35,Pediatric Rheumatolo,88,88,Pediatric Rheumatology
+8,Pediatric Rehabilitation,69,69,Physical Med/Rehab
+9,Pediatric Rehabilita,61,61,General Pediatrics
+43,Pediatric Radiology,75,75,Gen Diag/Interv Radiology
+8,Pediatric Pulmonology,A6,A6,Pediatric Pulm/Crit Care
+1,Pediatric Pulmonolog,73,73,Pulmonary/Crit Care
+37,PEDIATRIC PULMONOLOG,A6,A6,Pediatric Pulm/Crit Care
+1,PEDIATRIC PULMONARY,A6,A6,Pediatric Pulm/Crit Care
+3,Pediatric Psychology,13,13,Child/Adoles Psych
+3,Pediatric Psychiatry,13,13,Child/Adoles Psych
+3,PEDIATRIC PLASTIC SU,71,71,Plastic Surg
+8,Pediatric Physical Medicine and Rehabilitation,69,69,Physical Med/Rehab
+7,Pediatric Physical M,69,69,Physical Med/Rehab
+1,PEDIATRIC PATHOLOGY,72,72,Anatomic/Clinical Path
+1,PEDIATRIC PALLIATIVE,61,61,General Pediatrics
+3,PEDIATRIC OTOLARYNGOLOGY,58,58,Otolaryn/Head&Neck
+37,Pediatric Otolaryngo,58,58,Otolaryn/Head&Neck
+8,Pediatric Orthopedic Surgery,57,57,Orthopedic Surg
+35,Pediatric Orthopedic,57,57,Orthopedic Surg
+1,PEDIATRIC ORTHOPAEDI,57,57,Orthopedic Surg
+1,Pediatric Orthopaedi,61,61,General Pediatrics
+2,PEDIATRIC OPHTHALMOLOGY,56,56,Ophthalmology
+37,Pediatric Ophthalmol,56,56,Ophthalmology
+8,Pediatric Oncology,68,68,Pediatric Heme/Onc
+8,Pediatric Neurosurgery,50,50,Neurosurgery
+8,Pediatric Neurosurge,12,12,Pediatric Neurology
+1,PEDIATRIC NEUROPSYCH,61,61,General Pediatrics
+46,PEDIATRIC NEUROLOGY,12,12,Pediatric Neurology
+1,PEDIATRIC NEUROLOGIC,12,12,Pediatric Neurology
+26,PEDIATRIC NEURODEVEL,12,12,Pediatric Neurology
+1,PEDIATRIC NEURAL SOL,61,61,General Pediatrics
+47,PEDIATRIC NEPHROLOGY,70,70,Pediatric Nephrology
+3,Pediatric Medicine,61,61,General Pediatrics
+1,PEDIATRIC LEUKEMIA/L,68,68,Pediatric Heme/Onc
+10,PEDIATRIC INTENSIVE,61,61,General Pediatrics
+3,PEDIATRIC INFECTIOUS DISEASE,87,87,Pediatric Infectious Dis
+37,Pediatric Infectious,87,87,Pediatric Infectious Dis
+1,Pediatric Immunology,62,62,Pediatric Allergy/Imm
+25,PEDIATRIC HOSPITALIS,61,61,General Pediatrics
+2,Pediatric Hospitalis,62,62,Pediatric Allergy/Imm
+1,PEDIATRIC HOSPICE &,61,61,General Pediatrics
+8,Pediatric Hematology and Oncology,68,68,Pediatric Heme/Onc
+48,Pediatric Hematology,68,68,Pediatric Heme/Onc
+1,PEDIATRIC GYNECOLOGY,52,52,General OB/Gyn
+1,PEDIATRIC GI,A8,A8,Pediatric Gastroenter
+42,Pediatric Genetics,84,84,Pediatric Genetics
+8,Pediatric Gastroenterology,A8,A8,Pediatric Gastroenter
+40,Pediatric Gastroente,A8,A8,Pediatric Gastroenter
+1,Pediatric Facility,"0 ","0 ",UNKNOWN
+2,Pediatric Facility,99,99,Unknown
+8,Pediatric Endocrinology,64,64,Pediatric Endocrinology
+40,Pediatric Endocrinol,64,64,Pediatric Endocrinology
+8,Pediatric Emergency Medicine,22,22,Emergency Med
+1,Pediatric Emergency,00,00,Unclassified
+1,Pediatric Emergency,12,12,Pediatric Neurology
+31,Pediatric Emergency,22,22,Emergency Med
+6,Pediatric Emergency,61,61,General Pediatrics
+28,PEDIATRIC DEVELOPMEN,61,61,General Pediatrics
+8,Pediatric Dermatology,17,17,Dermatology
+37,Pediatric Dermatolog,17,17,Dermatology
+7,Pediatric Dentistry,A0,A0,Dent/Oral Surg
+8,Pediatric Critical Care Medicine,A6,A6,Pediatric Pulm/Crit Care
+35,Pediatric Critical C,61,61,General Pediatrics
+1,Pediatric Critical C,A6,A6,Pediatric Pulm/Crit Care
+1,PEDIATRIC CARDIOVASC,63,63,Pediatric Cardiology
+4,Pediatric Cardiothor,63,63,Pediatric Cardiology
+50,Pediatric Cardiology,63,63,Pediatric Cardiology
+1,PEDIATRIC ANESTHESIO,06,06,Anesthesia
+32,PEDIATRIC ANESTHESIA,06,06,Anesthesia
+1,Pediatric Allergy/Im,62,62,Pediatric Allergy/Imm
+40,Pediatric Allergy,62,62,Pediatric Allergy/Imm
+1,Pediatric,61,61,General Pediatrics
+1,PED-HEMATOLOGY-ONCOL,68,68,Pediatric Heme/Onc
+1,PED-GASTROENTEROLOGY,A8,A8,Pediatric Gastroenter
+1,PED-CARDIOLOGY,63,63,Pediatric Cardiology
+1,Ped Surgery (surgery,66,66,Pediatric Surgery
+1,Ped Hematology/oncol,68,68,Pediatric Heme/Onc
+1,Ped Gastroenterology,A8,A8,Pediatric Gastroenter
+1,Ped Eme Med (pediatr,61,61,General Pediatrics
+1,Ped Eme Med (emergen,61,61,General Pediatrics
+1,Ped Cardiothoracic S,66,66,Pediatric Surgery
+1,PATIENT NAVIGATOR,00,00,Unclassified
+1,Patient Care Coordin,00,00,Unclassified
+1,Pathology Medicine,72,72,Anatomic/Clinical Path
+25,PATHOLOGY ASSISTANT,00,00,Unclassified
+1,PATHOLOGY - PEDIATRI,72,72,Anatomic/Clinical Path
+1,PATHOLOGY - CYTOPATH,72,72,Anatomic/Clinical Path
+1,PATHOLOGY - CLINIC,72,72,Anatomic/Clinical Path
+1,PATHOLOGY - ANATOMIC,72,72,Anatomic/Clinical Path
+53,PATHOLOGY,72,72,Anatomic/Clinical Path
+1,Pathology,D5,D5,Audiology/Speech Pathology
+1,PATH-ANATOMIC PATHOL,72,72,Anatomic/Clinical Path
+1,PA-SURGICAL,C8,C8,Physician Assistant – Surgery
+31,Pastoral Care,39,39,General Internal Med
+1,Pa-medical,C6,C6,Physician Assistant – Medicine
+1,PA-MEDICAL,C8,C8,Physician Assistant – Surgery
+32,Palliative Medicine,D3,D3,Palliative Care
+5,Palliative Care,D3,D3,Palliative Care
+1,Pain Medicine/anes.,85,85,Pain Management
+1,"Pain Medicine, Inter",85,85,Pain Management
+1,PAIN MEDICINE - PAIN,85,85,Pain Management
+41,PAIN MEDICINE,85,85,Pain Management
+4,PAIN MEDICINE,D3,D3,Palliative Care
+1,Pain Management Med,85,85,Pain Management
+7,Pain Management,85,85,Pain Management
+1,Pa Anesthesia Assist,06,06,Anesthesia
+3,Outpatient Center/Cl,00,00,Unclassified
+2,OUTPATIENT,99,99,Unknown
+1,"Otolaryngology-ear,n",58,58,Otolaryn/Head&Neck
+1,"Otolaryngology, Slee",58,58,Otolaryn/Head&Neck
+1,Otolaryngology Medic,58,58,Otolaryn/Head&Neck
+2,OTOLARYNGOLOGY (ENT),58,58,Otolaryn/Head&Neck
+1,OTOLARYNGOLOGY - PED,58,58,Otolaryn/Head&Neck
+1,OTOLARYNGOLOGY - OTO,58,58,Otolaryn/Head&Neck
+57,OTOLARYNGOLOGY,58,58,Otolaryn/Head&Neck
+2,OTOLARYNGOLOGY,D3,D3,Palliative Care
+2,OTHER SPECIALTY,00,00,Unclassified
+1,OTHER SERVICE PROVID,00,00,Unclassified
+3,OTHER,00,00,Unclassified
+4,OTHER,99,99,Unknown
+1,Osteopathy Med,25,25,Family Practice
+1,Osteopathy,25,25,Family Practice
+1,Osteopathic Medicine,00,00,Unclassified
+36,OSTEOPATHIC MEDICINE,25,25,Family Practice
+1,OSTEOPATHIC MEDICINE,D9,D9,Allied Health Professional - Medical
+3,Osteopathic Manipula,25,25,Family Practice
+1,Orthotics/Prosthetic,00,00,Unclassified
+9,Orthotics,00,00,Unclassified
+2,Orthotic/Prosthetic,57,57,Orthopedic Surg
+1,Orthotic/Prosthetic,99,99,Unknown
+1,ORTHO-SPINE SURGERY,57,57,Orthopedic Surg
+1,Orthopedics Med,57,57,Orthopedic Surg
+39,Orthopedics,57,57,Orthopedic Surg
+1,Orthopedic Trauma,57,57,Orthopedic Surg
+1,Orthopedic Tech Cert,00,00,Unclassified
+1,"Orthopedic Surgery,",57,57,Orthopedic Surg
+25,ORTHOPEDIC SURGERY R,57,57,Orthopedic Surg
+1,Orthopedic Surgery O,57,57,Orthopedic Surg
+1,Orthopedic Surgery M,57,57,Orthopedic Surg
+48,Orthopedic Surgery,57,57,Orthopedic Surg
+1,Orthopedic Surg,57,57,Orthopedic Surg
+1,Orthopedic Spine Sur,57,57,Orthopedic Surg
+1,ORTHOPEDIC ONCOLOGY,A3,A3,Internal Med Heme/Onc
+1,Orthopedic Hand Surg,36,36,Hand Surgery
+1,"Orthopaedic Surgery,",57,57,Orthopedic Surg
+5,Orthopaedic Surgery,57,57,Orthopedic Surg
+1,ORTHOPAEDIC SARCOMA,57,57,Orthopedic Surg
+1,ORTHOPAEDIC ONCOLOGY,57,57,Orthopedic Surg
+1,Orthop Sur Of The Sp,57,57,Orthopedic Surg
+2,ORTHO-HAND SURGERY,36,36,Hand Surgery
+33,Orthodontics,A0,A0,Dent/Oral Surg
+8,Orthodontics,E1,E1,Allied Health Professional - Other
+1,Ortho Sports Medicin,C4,C4,Sports Medicine
+1,ORTHO SPINAL SURGERY,57,57,Orthopedic Surg
+1,Ortho Podiatric,B8,B8,Podiatry
+1,ORAL/MXILLOFACIAL S,A0,A0,Dent/Oral Surg
+2,Oral/Maxillofacial S,A0,A0,Dent/Oral Surg
+1,Oral Surgery Medicin,A0,A0,Dent/Oral Surg
+46,Oral Surgery,A0,A0,Dent/Oral Surg
+1,Oral Surgeon,A0,A0,Dent/Oral Surg
+3,Oral Maxillofacial S,A0,A0,Dent/Oral Surg
+4,ORAL & MAXILLOFACIAL,A0,A0,Dent/Oral Surg
+1,Oral & Maxillfacial,A0,A0,Dent/Oral Surg
+6,ORAL & MAXILL SURG,A0,A0,Dent/Oral Surg
+1,ORAL,A0,A0,Dent/Oral Surg
+1,Optometry Medicine,00,00,Unclassified
+3,Optometry,00,00,Unclassified
+35,OPTOMETRY,25,25,Family Practice
+3,OPTOMETRY,56,56,Ophthalmology
+2,OPTOMETRIST,00,00,Unclassified
+2,OPTICIAN,00,00,Unclassified
+1,OPTHALMOLOGY,56,56,Ophthalmology
+1,Ophthamology,56,56,Ophthalmology
+1,Ophthalmology Medici,56,56,Ophthalmology
+59,Ophthalmology,56,56,Ophthalmology
+1,OPHTHALMIC PLASTIC,56,56,Ophthalmology
+1,OPHTHALMALOGY,56,56,Ophthalmology
+1,Oncology Medicine,A3,A3,Internal Med Heme/Onc
+1,Oncology,29,29,Gyn Oncology
+51,Oncology,A3,A3,Internal Med Heme/Onc
+1,ONCOLOGY,A4,A4,Oncologic Surg
+36,Oculoplastics Ophtha,56,56,Ophthalmology
+1,Occupational Therapy,00,00,Unclassified
+1,Occupational Therapy,54,54,Prev / Occ Med
+35,Occupational Therapy,69,69,Physical Med/Rehab
+4,OCCUPATIONAL THERAPY,D9,D9,Allied Health Professional - Medical
+1,Occupational Therapi,69,69,Physical Med/Rehab
+1,OCCUPATIONAL MEDICINE,54,54,Prev / Occ Med
+2,OCCUPATIONAL MEDICINE,D9,D9,Allied Health Professional - Medical
+1,Occupational Medicin,54,54,Prev / Occ Med
+40,Occupational Medicin,69,69,Physical Med/Rehab
+4,OCCUPATIONAL HEALTH,54,54,Prev / Occ Med
+1,OBSTETRICS-GYNECOLOG,52,52,General OB/Gyn
+1,OBSTETRICS/HIGH RISK,52,52,General OB/Gyn
+1,Obstetrics/Gynecology,52,52,General OB/Gyn
+5,OBSTETRICS/GYNECOLOG,52,52,General OB/Gyn
+1,Obstetrics/gyn,52,52,General OB/Gyn
+1,"Obstetrics, Gynecolo",52,52,General OB/Gyn
+1,Obstetrics Med,52,52,General OB/Gyn
+6,OBSTETRICS AND GYNECOLOGY,52,52,General OB/Gyn
+2,OBSTETRICS AND GYNECOLOGY,A3,A3,Internal Med Heme/Onc
+1,Obstetrics And Gynec,46,46,Nephrology
+39,OBSTETRICS AND GYNEC,52,52,General OB/Gyn
+1,OBSTETRICS / GYNECOL,52,52,General OB/Gyn
+3,OBSTETRICS & GYNECOL,52,52,General OB/Gyn
+47,Obstetrics,52,52,General OB/Gyn
+1,Observation Unit,0,"0 ",UNKNOWN
+1,OBGYN-REPRODUCTIVE E,76,76,Reproductive Endo
+1,OBGYN-REPRODUCTIVE E,C9,C9,OB/GYN Reproductive Genetics
+1,OBGYN-MATERNAL & FET,42,42,Maternal and Fetal
+1,OBGYN-GYNECOLOGY,52,52,General OB/Gyn
+1,OBGYN FEMALE PELVIC,52,52,General OB/Gyn
+1,OBGYN - REPRODUCTIVE,C9,C9,OB/GYN Reproductive Genetics
+1,OBGYN - OBSTETRICS,52,52,General OB/Gyn
+1,OBGYN - MATERNAL AND,42,42,Maternal and Fetal
+1,OBGYN - GYNECOLOGY,52,52,General OB/Gyn
+1,OBGYN - GYNECOLOGICA,52,52,General OB/Gyn
+1,OBGYN - FEMALE PELVI,52,52,General OB/Gyn
+1,OB/GYN/Reproductive,52,52,General OB/Gyn
+1,OB/GYN/Gynecological,52,52,General OB/Gyn
+9,Ob/gyn,52,52,General OB/Gyn
+1,OB Hospitalist,52,52,General OB/Gyn
+1,Ob Hospitalist,C2,C2,Hospitalist
+1,Nutrition Med,00,00,Unclassified
+37,Nutrition,00,00,Unclassified
+1,Nursing Homes,0,"0 ",UNKNOWN
+2,Nursing Home Facilit,00,00,Unclassified
+1,Nursing Home Facilit,99,99,Unknown
+4,NURSING,00,00,Unclassified
+1,Nurse Practitioner S,D0,D0,Nurse Practitioner - Medicine
+26,NURSE PRACTITIONER P,D0,D0,Nurse Practitioner - Medicine
+25,NURSE PRACTITIONER N,D0,D0,Nurse Practitioner - Medicine
+1,Nurse Practitioner M,D0,D0,Nurse Practitioner - Medicine
+26,NURSE PRACTITIONER G,D0,D0,Nurse Practitioner - Medicine
+8,Nurse Practitioner Family,D0,D0,Nurse Practitioner - Medicine
+26,Nurse Practitioner F,D0,D0,Nurse Practitioner - Medicine
+25,Nurse Practitioner E,D0,D0,Nurse Practitioner - Medicine
+26,NURSE PRACTITIONER A,D0,D0,Nurse Practitioner - Medicine
+1,NURSE PRACTITIONER -,D0,D0,Nurse Practitioner - Medicine
+53,NURSE PRACTITIONER,D0,D0,Nurse Practitioner - Medicine
+25,NURSE NAVIGATOR,00,00,Unclassified
+25,NURSE MANAGER,00,00,Unclassified
+1,"Nurse Anesthetist, C",00,00,Unclassified
+1,"NURSE ANESTHETIST, C",06,06,Anesthesia
+1,NULL,0,"0 ",UNKNOWN
+2,NUCLEAR RADIOLOGY,47,47,Nuclear Medicine
+1,"Nuclear Medicine, Di",47,47,Nuclear Medicine
+43,NUCLEAR MEDICINE,47,47,Nuclear Medicine
+1,NUCLEAR MED - NUCLEA,47,47,Nuclear Medicine
+1,Nuclear Med,47,47,Nuclear Medicine
+1,NUCLEAR IMAGING,47,47,Nuclear Medicine
+1,Nuclear Cardiology,10,10,Cardiology
+1,NP-WOMENS HEALTH,D0,D0,Nurse Practitioner - Medicine
+1,NP-PRIMARY CARE,D0,D0,Nurse Practitioner - Medicine
+2,NP-PEDIATRICS,D0,D0,Nurse Practitioner - Medicine
+1,NP-NEONATAL,48,48,Neo / Perinatal Med
+1,NP-GERONTOLOGY,D0,D0,Nurse Practitioner - Medicine
+2,NP-FAMILY,D0,D0,Nurse Practitioner - Medicine
+1,NP-ADULT HEALTH,D0,D0,Nurse Practitioner - Medicine
+1,NP-ACUTE CARE,D0,D0,Nurse Practitioner - Medicine
+1,Not Provided,0,"0 ",UNKNOWN
+1,Not Provided,99,99,Unknown
+3,Non-Residential Beha,59,59,General Psychiatry
+1,Non-certified Scrub,00,00,Unclassified
+1,NM Radiotherapy,00,00,Unclassified
+1,NEUROTOLOGY,58,58,Otolaryn/Head&Neck
+1,Neurosurgery Med,50,50,Neurosurgery
+58,Neurosurgery,50,50,Neurosurgery
+8,Neuroradiology,75,75,Gen Diag/Interv Radiology
+36,Neuropsychology,44,44,General Neurology
+25,Neuropsychologist,44,44,General Neurology
+2,Neuropsychiatry,44,44,General Neurology
+28,Neurophysiology,44,44,General Neurology
+2,Neuropathology,44,44,General Neurology
+2,Neuro-Otology,44,44,General Neurology
+36,Neuro-ophthalmology,44,44,General Neurology
+1,NEURO-ONCOLOGY,44,44,General Neurology
+8,Neuromusculoskeletal Medicine,69,69,Physical Med/Rehab
+2,NEUROMUSCULOSKELETAL,44,44,General Neurology
+1,NEUROMUSCULOSKELETAL,50,50,Neurosurgery
+2,Neuromuscular Medici,44,44,General Neurology
+1,"Neurology, Clinical",44,44,General Neurology
+1,"Neurology, Child",12,12,Pediatric Neurology
+1,Neurology Med,44,44,General Neurology
+25,NEUROLOGY - TELEMEDI,44,44,General Neurology
+6,NEUROLOGY,32,32,General Surgery
+54,NEUROLOGY,44,44,General Neurology
+5,NEUROLOGICAL SURGERY,50,50,Neurosurgery
+2,Neurodevelopmental D,12,12,Pediatric Neurology
+2,Neurocritical Care,50,50,Neurosurgery
+1,Neuro/radio/neurorad,75,75,Gen Diag/Interv Radiology
+25,NEURO TECH,00,00,Unclassified
+1,NEURO CRITICAL CARE,44,44,General Neurology
+1,Neuro,44,44,General Neurology
+1,Nephrology/im,46,46,Nephrology
+1,Nephrology Med,46,46,Nephrology
+6,NEPHROLOGY ACUTE/CHRONIC,46,46,Nephrology
+52,Nephrology,46,46,Nephrology
+1,NEONATOLOGY/PERINATO,48,48,Neo / Perinatal Med
+1,"Neonatology, Pediatr",48,48,Neo / Perinatal Med
+25,NEONATOLOGY - TELEME,48,48,Neo / Perinatal Med
+55,Neonatology,48,48,Neo / Perinatal Med
+6,Neonatal-perinatal M,48,48,Neo / Perinatal Med
+2,Neonatal Perinatal M,48,48,Neo / Perinatal Med
+1,Neonatal Nurse Pract,D0,D0,Nurse Practitioner - Medicine
+1,NAVIGATOR,0,"0 ",UNKNOWN
+1,NATUROPATHY,00,00,Unclassified
+25,NATUROPATHIC PHYSICI,00,00,Unclassified
+1,Naturopathic,00,00,Unclassified
+12,Naturopath,00,00,Unclassified
+2,NATUROPATH,E1,E1,Allied Health Professional - Other
+1,Naprapath,00,00,Unclassified
+1,MYELOMA,17,17,Dermatology
+1,Music Therapy,00,00,Unclassified
+1,Multi-Specialty Grou,00,00,Unclassified
+1,Multispecialty Clini,00,00,Unclassified
+1,Multi-Specialty Clin,00,00,Unclassified
+2,Movement Disorders,44,44,General Neurology
+3,MOHS Migrographic,17,17,Dermatology
+2,Military Healthcare,00,00,Unclassified
+8,MIDWIFERY,B1,B1,Midwifery
+1,Midlife Women's Heal,00,00,Unclassified
+1,Midlife Women's Heal,B1,B1,Midwifery
+1,Mental Health & Drug,59,59,General Psychiatry
+1,MELANOMA SURGERY,17,17,Dermatology
+1,MELANOMA,17,17,Dermatology
+1,Medicine,39,39,General Internal Med
+25,MEDICATION ASSISTANC,60,60,Pharmacology
+1,MEDICAL TRANSCRIPTIO,00,00,Unclassified
+2,Medical Toxicology,00,00,Unclassified
+1,Medical Student,00,00,Unclassified
+1,"Medical Oncology, In",A3,A3,Internal Med Heme/Onc
+1,Medical Oncology,29,29,Gyn Oncology
+49,Medical Oncology,A3,A3,Internal Med Heme/Onc
+1,Medical Microbiology,00,00,Unclassified
+25,Medical Genetics/Cli,39,39,General Internal Med
+36,MEDICAL GENETICS,39,39,General Internal Med
+9,Medical Genetics,A2,A2,Internal Med Genetics
+26,MEDICAL ASSISTANT,39,39,General Internal Med
+1,Medical,39,39,General Internal Med
+1,MED GENETICS - CLINI,A2,A2,Internal Med Genetics
+2,MD,00,00,Unclassified
+3,Maxillofacial Surger,A0,A0,Dent/Oral Surg
+1,MATERNAL/FETAL MEDIC,48,48,Neo / Perinatal Med
+8,Maternal and Fetal Medicine,42,42,Maternal and Fetal
+1,Maternal And Fetal M,42,42,Maternal and Fetal
+37,MATERNAL AND FETAL M,48,48,Neo / Perinatal Med
+2,Maternal & Fetal Med,48,48,Neo / Perinatal Med
+1,MATERNAL,42,42,Maternal and Fetal
+6,Massage Therapy,00,00,Unclassified
+1,MASSAGE THERAPIST,00,00,Unclassified
+8,Massage Therapist,E1,E1,Allied Health Professional - Other
+1,Marriage & Family Th,59,59,General Psychiatry
+1,LYMPHOMA AND MYELOMA,17,17,Dermatology
+1,Long Term Care Acute,00,00,Unclassified
+1,Long Term Acute Care,00,00,Unclassified
+1,Lithotripsy,00,00,Unclassified
+1,LIFESTYLE MEDICINE,25,25,Family Practice
+1,LIFESTYLE MEDICINE,D9,D9,Allied Health Professional - Medical
+25,LICENSED SOCIAL WORK,00,00,Unclassified
+25,LICENSED PROFESSIONA,00,00,Unclassified
+25,LICENSED PRACTICAL N,00,00,Unclassified
+25,LICENSED MASTER SOCI,00,00,Unclassified
+8,Licensed Clinical Social Worker,E1,E1,Allied Health Professional - Other
+27,Licensed Clinical So,00,00,Unclassified
+1,LEUKEMIA,29,29,Gyn Oncology
+8,Legal Medicine,00,00,Unclassified
+36,Lactation Services,00,00,Unclassified
+1,Laboratory Services,00,00,Unclassified
+1,LAB MEDICINE,72,72,Anatomic/Clinical Path
+1,Lab,00,00,Unclassified
+33,Lab,72,72,Anatomic/Clinical Path
+3,Joint Surgery,57,57,Orthopedic Surg
+8,IP PSYCH,59,59,General Psychiatry
+2,Inteventional Pulmon,73,73,Pulmonary/Crit Care
+1,INTERVENTIONAL SPINE,69,69,Physical Med/Rehab
+14,Interventional Radiology,75,75,Gen Diag/Interv Radiology
+37,Interventional Radio,75,75,Gen Diag/Interv Radiology
+3,INTERVENTIONAL PAIN,85,85,Pain Management
+1,Interventional Neuro,44,44,General Neurology
+1,Interventional Cardiology,E2,E2,Interventional Cardiology
+35,Interventional Cardi,E2,E2,Interventional Cardiology
+1,Interventional And D,75,75,Gen Diag/Interv Radiology
+25,INTERNS - RESIDENTS,00,00,Unclassified
+1,Internal Medicine/pe,39,39,General Internal Med
+1,"Internal Medicine, R",39,39,General Internal Med
+1,"Internal Medicine, P",39,39,General Internal Med
+1,"Internal Medicine, N",39,39,General Internal Med
+2,"Internal Medicine, M",39,39,General Internal Med
+1,"Internal Medicine, I",39,39,General Internal Med
+1,"Internal Medicine, H",39,39,General Internal Med
+1,"Internal Medicine, G",39,39,General Internal Med
+1,"Internal Medicine, C",39,39,General Internal Med
+26,Internal Medicine Re,39,39,General Internal Med
+1,Internal Medicine Pu,73,73,Pulmonary/Crit Care
+1,Internal Medicine Pe,39,39,General Internal Med
+1,Internal Medicine Pe,61,61,General Pediatrics
+1,INTERNAL MEDICINE HO,39,39,General Internal Med
+2,INTERNAL MEDICINE HE,39,39,General Internal Med
+1,Internal Medicine En,39,39,General Internal Med
+2,Internal Medicine Ca,39,39,General Internal Med
+25,Internal Medicine an,39,39,General Internal Med
+55,INTERNAL MEDICINE,39,39,General Internal Med
+1,INTERNAL MED - RHEUM,77,77,Rheumatology
+1,INTERNAL MED - PULMO,73,73,Pulmonary/Crit Care
+1,INTERNAL MED - NEPHR,46,46,Nephrology
+1,INTERNAL MED - MEDIC,39,39,General Internal Med
+1,INTERNAL MED - INTER,39,39,General Internal Med
+1,INTERNAL MED - INFEC,37,37,Infectious Disease
+1,INTERNAL MED - HOSPI,C2,C2,Hospitalist
+1,INTERNAL MED - HEPAT,C7,C7,Hepatology
+1,INTERNAL MED - HEMAT,A3,A3,Internal Med Heme/Onc
+1,INTERNAL MED - GERIA,39,39,General Internal Med
+1,INTERNAL MED - GASTR,27,27,Gastroenterology
+1,INTERNAL MED - ENDOC,23,23,Endocrinology
+1,INTERNAL MED - CRITI,39,39,General Internal Med
+1,INTERNAL MED - CLINI,39,39,General Internal Med
+1,INTERNAL MED - CARDI,10,10,Cardiology
+1,INTERNAL MED - ALLER,04,04,Allergy/Immunology
+1,INTERNAL MED - ADOLE,86,86,Adolescent Med
+2,Internal Med,39,39,General Internal Med
+3,Intensive Care,00,00,Unclassified
+34,INTENSIVE CARE,39,39,General Internal Med
+3,Integrative Medicine,00,00,Unclassified
+1,INTEGRATED MEDICINE,00,00,Unclassified
+2,INFUSION THERAPY,00,00,Unclassified
+1,INFUSION,00,00,Unclassified
+47,INFECTIOUS DISEASES,37,37,Infectious Disease
+3,INFECTIOUS DISEASE-MED TEACHING,37,37,Infectious Disease
+1,"Infectious Disease,",37,37,Infectious Disease
+1,Infectious Disease M,37,37,Infectious Disease
+25,INFECTIOUS DISEASE -,37,37,Infectious Disease
+5,Infectious Disease,37,37,Infectious Disease
+1,INFECTION CONTROL,37,37,Infectious Disease
+1,Indian Health Facili,"0 ","0 ",UNKNOWN
+2,Indian Health Facili,99,99,Unknown
+1,IM-TRANSPLANT HEPATO,A7,A7,Transplantation
+1,IM-RHEUMATOLOGY,77,77,Rheumatology
+2,IM-PULMONARY DISEASE,73,73,Pulmonary/Crit Care
+1,IM-NEPHROLOGY,46,46,Nephrology
+15,Immunology,04,04,Allergy/Immunology
+1,IM-MEDICAL ONCOLOGY,A3,A3,Internal Med Heme/Onc
+1,Immediate Care,00,00,Unclassified
+1,IM-INTERVENTIONAL CA,10,10,Cardiology
+1,Im-interventional Ca,E2,E2,Interventional Cardiology
+2,Im-infectious Diseas,37,37,Infectious Disease
+1,IM-HEPATOLOGY,C7,C7,Hepatology
+2,IM-HEMATOLOGY & ONCO,A3,A3,Internal Med Heme/Onc
+2,IM-GERIATRIC MEDICIN,39,39,General Internal Med
+1,IM-GASTROENTEROLOGY,27,27,Gastroenterology
+2,"IM-ENDOCRINOLOGY, DI",23,23,Endocrinology
+1,Im-critical Care Med,39,39,General Internal Med
+1,IM-CRITICAL CARE MED,D7,D7,Surgical Critical Care
+1,IM-CARDIOVASCULAR DI,10,10,Cardiology
+1,IM-CARDIOVASCULAR DI,E2,E2,Interventional Cardiology
+1,Imaging,75,75,Gen Diag/Interv Radiology
+1,Im/pulmonary,73,73,Pulmonary/Crit Care
+1,Im/pediatrics,61,61,General Pediatrics
+1,Im/nephrology,46,46,Nephrology
+1,Im/hematology/oncolo,A3,A3,Internal Med Heme/Onc
+1,Hyperbaric Medicine,D6,D6,Undersea/Hyperbaric Medicine
+1,Hyperbaric,D6,D6,Undersea/Hyperbaric Medicine
+25,HOSPITALIST-TELEMEDI,C2,C2,Hospitalist
+1,Hospitalist/internal,C2,C2,Hospitalist
+1,Hospitalist Service,C2,C2,Hospitalist
+1,Hospitalist Medicine,C2,C2,Hospitalist
+46,Hospitalist,C2,C2,Hospitalist
+3,HOSPITAL PHYSICIAN,25,25,Family Practice
+1,HOSPICE/PALLIATIVE C,D3,D3,Palliative Care
+1,Hospice Services,00,00,Unclassified
+42,Hospice Services,D3,D3,Palliative Care
+3,HOSPICE AND PALLIATIVE MEDICINE,D3,D3,Palliative Care
+34,Hospice And Palliati,D3,D3,Palliative Care
+1,HOSPICE & PALLIATIVE,D3,D3,Palliative Care
+2,Hospice,D3,D3,Palliative Care
+1,Home Health Services,"0 ","0 ",UNKNOWN
+33,Home Health Services,00,00,Unclassified
+2,Home Health Services,99,99,Unknown
+8,Home Health Services,E1,E1,Allied Health Professional - Other
+1,HOME HEALTH AGENCY,00,00,Unclassified
+1,Home Health,00,00,Unclassified
+2,HOME CARE PHYSICIAN,39,39,General Internal Med
+1,Home Care Physician,99,99,Unknown
+1,Home Care,00,00,Unclassified
+2,HOME CARE,E1,E1,Allied Health Professional - Other
+18,Hepatology,C7,C7,Hepatology
+2,HEPATOLGY,C7,C7,Hepatology
+2,HEMATOPATHOLOGY,72,72,Anatomic/Clinical Path
+6,Hematology/oncology,A3,A3,Internal Med Heme/Onc
+1,Hematology(pathology,A3,A3,Internal Med Heme/Onc
+1,Hematology(int Med),A3,A3,Internal Med Heme/Onc
+1,Hematology Oncology,A3,A3,Internal Med Heme/Onc
+1,Hematology Med,A3,A3,Internal Med Heme/Onc
+8,Hematology and Oncology,A3,A3,Internal Med Heme/Onc
+1,Hematology And Oncol,29,29,Gyn Oncology
+37,HEMATOLOGY AND ONCOL,A3,A3,Internal Med Heme/Onc
+5,HEMATOLOGY - MED TEACHING,A3,A3,Internal Med Heme/Onc
+1,Hematology,00,00,Unclassified
+46,Hematology,A3,A3,Internal Med Heme/Onc
+2,Heart Transplant,10,10,Cardiology
+2,Heart Intake Coordin,00,00,Unclassified
+1,Heart Intake Coordin,99,99,Unknown
+2,Heart Failure,10,10,Cardiology
+1,HEAD AND NECK SURGER,71,71,Plastic Surg
+1,HEAD AND NECK ORAL C,71,71,Plastic Surg
+1,HEAD AND NECK MEDICA,71,71,Plastic Surg
+2,Head & Neck Surgery,58,58,Otolaryn/Head&Neck
+2,Hand Therapy,54,54,Prev / Occ Med
+1,Hand Surgery Medicin,36,36,Hand Surgery
+23,Hand Surgery,36,36,Hand Surgery
+2,GYNECOLOGY SURGERY,52,52,General OB/Gyn
+1,GYNECOLOGY OUTREACH,52,52,General OB/Gyn
+1,Gynecology Med,29,29,Gyn Oncology
+50,Gynecology,52,52,General OB/Gyn
+1,Gynecological Oncology,29,29,Gyn Oncology
+4,GYNECOLOGICAL ONCOLO,29,29,Gyn Oncology
+1,GYNECOLOGIC SURGICAL,52,52,General OB/Gyn
+44,GYNECOLOGIC ONCOLOGY,29,29,Gyn Oncology
+1,GYNECOLOGIC MEDICAL,52,52,General OB/Gyn
+1,Gyn,52,52,General OB/Gyn
+8,Glaucoma Ophthalmology,56,56,Ophthalmology
+36,Glaucoma Ophthalmolo,56,56,Ophthalmology
+1,Gerontology,00,00,Unclassified
+37,GERONTOLOGY,25,25,Family Practice
+8,Gerontology,28,28,Geriatrics
+1,Geriatrics Med,28,28,Geriatrics
+2,Geriatrics,28,28,Geriatrics
+2,GERIATRIC SVCS,28,28,Geriatrics
+5,Geriatric Psychiatry,59,59,General Psychiatry
+47,GERIATRIC MEDICINE,28,28,Geriatrics
+1,Geriatric Internal M,28,28,Geriatrics
+1,Geriatric Family Med,28,28,Geriatrics
+1,GERIATRIC,28,28,Geriatrics
+1,GENITOURINARY ONCOLO,29,29,Gyn Oncology
+45,GENETICS,A2,A2,Internal Med Genetics
+1,Geneticist,A2,A2,Internal Med Genetics
+3,Genetic Counselor,A2,A2,Internal Med Genetics
+1,General/thorasic/vas,C5,C5,Thoracic Surgery
+1,"General Surgery, Vas",32,32,General Surgery
+1,"General Surgery, Uro",82,82,Urology Surgical
+1,"General Surgery, Sur",32,32,General Surgery
+59,General Surgery,32,32,General Surgery
+1,General Preventive M,25,25,Family Practice
+1,General Practice Med,39,39,General Internal Med
+3,GENERAL PRACTICE,25,25,Family Practice
+49,General Practice,39,39,General Internal Med
+1,GENERAL PEDIATRICS,61,61,General Pediatrics
+1,GENERAL ONCOLOGY,29,29,Gyn Oncology
+1,General Medicine,27,27,Gastroenterology
+6,GENERAL MED TEACHING,C2,C2,Hospitalist
+1,Gen/vas Surgery,83,83,Vascular Surg
+1,Gen Practice,39,39,General Internal Med
+1,GASTROINTESTINAL PRE,27,27,Gastroenterology
+1,GASTROINTESTINAL MED,27,27,Gastroenterology
+25,GASTROENTEROLOGY-TEL,27,27,Gastroenterology
+1,Gastroenterology/im,27,27,Gastroenterology
+1,Gastroenterology/Hep,27,27,Gastroenterology
+1,"Gastroenterology, In",27,27,Gastroenterology
+1,"GASTROENTEROLOGY, HE",27,27,Gastroenterology
+1,GASTROENTEROLOGY SUR,27,27,Gastroenterology
+1,Gastroenterology Med,27,27,Gastroenterology
+59,Gastroenterology,27,27,Gastroenterology
+1,Funeral Home,"0 ","0 ",UNKNOWN
+2,Funeral Home,99,99,Unknown
+1,Functional Medicine,00,00,Unclassified
+2,Forensic Psychiatry,59,59,General Psychiatry
+1,Foot Section,B8,B8,Podiatry
+1,"Foot & Ankle, Orthop",57,57,Orthopedic Surg
+1,Financial Coordinato,00,00,Unclassified
+1,Finance,"0 ","0 ",UNKNOWN
+2,Finance,00,00,Unclassified
+2,Finance,99,99,Unknown
+1,FATIGUE,0,"0 ",UNKNOWN
+25,FAMILY SERVICES SPEC,25,25,Family Practice
+1,Family Practice Med,25,25,Family Practice
+13,Family Practice,25,25,Family Practice
+1,Family Nurse Practit,D0,D0,Nurse Practitioner - Medicine
+1,"Family Medicine, Ger",25,25,Family Practice
+25,FAMILY MEDICINE RESI,25,25,Family Practice
+1,FAMILY MEDICINE HOSP,25,25,Family Practice
+50,FAMILY MEDICINE,25,25,Family Practice
+1,Family Med - Sports,25,25,Family Practice
+1,FAMILY MED - SPORTS,C4,C4,Sports Medicine
+1,FAMILY MED - SLEEP M,25,25,Family Practice
+1,FAMILY MED - HOSPICE,25,25,Family Practice
+1,FAMILY MED - GERIATR,28,28,Geriatrics
+1,FAMILY MED - ADULT M,25,25,Family Practice
+1,Facial Plastic Surge,71,71,Plastic Surg
+8,External Location,00,00,Unclassified
+1,EXPERIMENTAL TREATME,0,"0 ",UNKNOWN
+2,Experimental Therape,00,00,Unclassified
+1,EXERCISE PHYSIOLOGY,00,00,Unclassified
+1,ETHICS,00,00,Unclassified
+2,Epilepsy,44,44,General Neurology
+1,ENT-OTOLOGY & NEUROT,58,58,Otolaryn/Head&Neck
+3,Ent-otolaryngology,58,58,Otolaryn/Head&Neck
+1,Ent,58,58,Otolaryn/Head&Neck
+1,Endovascular Surgica,83,83,Vascular Surg
+1,Endoscopy,23,23,Endocrinology
+1,ENDODONTICS,23,23,Endocrinology
+7,Endodontics,A0,A0,Dent/Oral Surg
+2,Endocrinology/metabo,23,23,Endocrinology
+1,Endocrinology/im,23,23,Endocrinology
+1,"Endocrinology, Diabe",23,23,Endocrinology
+1,Endocrinology Med,23,23,Endocrinology
+1,ENDOCRINOLOGY HEAD A,23,23,Endocrinology
+2,ENDOCRINOLOGY DIABET,23,23,Endocrinology
+1,Endocrinology Dia Me,23,23,Endocrinology
+1,Endocrinology and Me,23,23,Endocrinology
+55,Endocrinology,23,23,Endocrinology
+1,"Endocrine Surgery, G",32,32,General Surgery
+1,ENDOCRINE SURGERY,23,23,Endocrinology
+1,ENDOCRINE NEOPLASIA,23,23,Endocrinology
+25,EMPLOYED AHP (RESEAR,00,00,Unclassified
+1,"Emergency Medicine,",22,22,Emergency Med
+1,Emergency Medicine R,22,22,Emergency Med
+53,Emergency Medicine,22,22,Emergency Med
+25,EMERGENCY MEDICAL SE,22,22,Emergency Med
+3,EMERGENCY MED,22,22,Emergency Med
+7,Emergency,22,22,Emergency Med
+1,EMER MED - PEDIATRIC,22,22,Emergency Med
+1,EMER MED - EMERGENCY,22,22,Emergency Med
+1,EM-EMERGENCY MEDICAL,22,22,Emergency Med
+7,Electrophysiology,39,39,General Internal Med
+1,Electrophysiology,D8,D8,Cardiac Electrophysiology
+3,Electrodiagnostic Me,00,00,Unclassified
+1,Education And Litera,00,00,Unclassified
+1,Ed Main Doc,22,22,Emergency Med
+1,Ed,22,22,Emergency Med
+25,ECHO TECH,10,10,Cardiology
+1,"Ear, Nose & Throat",58,58,Otolaryn/Head&Neck
+3,Durable Medical Equi,00,00,Unclassified
+1,DOSIMETRY,0,"0 ",UNKNOWN
+1,DO,D0,D0,Nurse Practitioner - Medicine
+2,DIETITIAN/NUTRITIONI,00,00,Unclassified
+30,Dietitian,00,00,Unclassified
+1,DIETITIAN,D9,D9,Allied Health Professional - Medical
+2,DIETITIAN,E1,E1,Allied Health Professional - Other
+5,Dietician,00,00,Unclassified
+2,Dialysis Center,00,00,Unclassified
+1,Dialysis Center,99,99,Unknown
+1,Dialysis,00,00,Unclassified
+48,DIAGNOSTIC RADIOLOGY,75,75,Gen Diag/Interv Radiology
+1,Diagnostic  Radiolog,75,75,Gen Diag/Interv Radiology
+1,Diag Rad & Internal,75,75,Gen Diag/Interv Radiology
+1,Diag Rad & Int Rad,75,75,Gen Diag/Interv Radiology
+2,Diabetic Education,23,23,Endocrinology
+1,Diabetic Education,99,99,Unknown
+1,Diabetes Educator,23,23,Endocrinology
+3,Diabetes Education,23,23,Endocrinology
+1,DIABETES,0,"0 ",UNKNOWN
+9,Diabetes,23,23,Endocrinology
+1,DERMATOPATHOLOGY,17,17,Dermatology
+9,Dermatopathology,72,72,Anatomic/Clinical Path
+25,Dermatology-Telemedi,17,17,Dermatology
+1,DERMATOLOGY/MOHS SGY,17,17,Dermatology
+1,Dermatology Med,17,17,Dermatology
+1,DERMATOLOGY - PEDIAT,17,17,Dermatology
+1,DERMATOLOGY - MOHS-M,17,17,Dermatology
+1,DERMATOLOGY - CLINIC,17,17,Dermatology
+57,DERMATOLOGY,17,17,Dermatology
+1,DENTISTRY - PEDIATRI,A0,A0,Dent/Oral Surg
+1,DENTISTRY - GENERAL,A0,A0,Dent/Oral Surg
+1,DENTISTRY - CHILDREN,A0,A0,Dent/Oral Surg
+8,Dentistry,A0,A0,Dent/Oral Surg
+1,Dentist/pediatric Pr,A0,A0,Dent/Oral Surg
+1,"DENTIST, PEDIATRIC D",A0,A0,Dent/Oral Surg
+1,DENTIST -GENERAL PRA,A0,A0,Dent/Oral Surg
+1,DENTIST - ORAL AND M,A0,A0,Dent/Oral Surg
+3,DENTIST,A0,A0,Dent/Oral Surg
+1,Dental/Oral Med,A0,A0,Dent/Oral Surg
+1,DENTAL ONCOLOGY,A0,A0,Dent/Oral Surg
+8,Dental General Practice,A0,A0,Dent/Oral Surg
+1,Dental General Pract,00,00,Unclassified
+36,DENTAL GENERAL PRACT,A0,A0,Dent/Oral Surg
+26,Dental Assistant,A0,A0,Dent/Oral Surg
+1,"Denistry, Oral Surge",A0,A0,Dent/Oral Surg
+1,Data Coordinator,00,00,Unclassified
+25,CYTOTECHNOLOGIST,72,72,Anatomic/Clinical Path
+5,Cytopathology,72,72,Anatomic/Clinical Path
+1,CYTOKINES AND SUPPOR,0,"0 ",UNKNOWN
+1,Cultural Mediator,00,00,Unclassified
+1,CRNA Anes Asst,D1,D1,CRNA
+2,Crna,D1,D1,CRNA
+25,CRITICAL CARE-TELEME,39,39,General Internal Med
+1,Critical Care/im,39,39,General Internal Med
+2,Critical Care Surger,32,32,General Surgery
+35,Critical Care Medici,39,39,General Internal Med
+1,Critical Care Med,39,39,General Internal Med
+4,Critical Care,39,39,General Internal Med
+8,Critical Care,73,73,Pulmonary/Crit Care
+1,CRITICAL CARE,D7,D7,Surgical Critical Care
+1,Critcal Care Surgery,39,39,General Internal Med
+1,Critcal Care Surgery,D7,D7,Surgical Critical Care
+1,Crit Care Internal M,73,73,Pulmonary/Crit Care
+25,CRISIS EVALUATOR,00,00,Unclassified
+8,Counselor Professional,E1,E1,Allied Health Professional - Other
+1,COUNSELOR - MENTAL H,00,00,Unclassified
+2,COUNSELOR,59,59,General Psychiatry
+44,Cornea Ophthalmology,56,56,Ophthalmology
+1,Coordinator Services,00,00,Unclassified
+8,Contact Lens Optometry,E1,E1,Allied Health Professional - Other
+36,Contact Lens Optomet,00,00,Unclassified
+1,CONGENITAL CARDIAC S,10,10,Cardiology
+26,COMPLEX GENERAL SURG,32,32,General Surgery
+1,"Colorectal Surgery,",b2,B2,Colorectal Surgery
+1,Colorectal Surgery M,B2,B2,Colorectal Surgery
+4,Colorectal Surgery,B2,B2,Colorectal Surgery
+1,Colon/rectal Surgery,B2,B2,Colorectal Surgery
+8,Colon and Rectal Surgery,B2,B2,Colorectal Surgery
+1,Colon And Rectal Sur,00,00,Unclassified
+35,COLON AND RECTAL SUR,B2,B2,Colorectal Surgery
+1,Colon & Rectal  Surg,B2,B2,Colorectal Surgery
+1,CNS-FAMILY HEALTH,00,00,Unclassified
+1,Clinics,0,"0 ",UNKNOWN
+1,Clinical Social Work,00,00,Unclassified
+2,Clinical Research As,00,00,Unclassified
+3,Clinical Psychology,59,59,General Psychiatry
+1,CLINICAL PSYCHOLOGIS,00,00,Unclassified
+2,CLINICAL PSYCHOLOGIS,59,59,General Psychiatry
+1,CLINICAL PHYSIOLOGY,00,00,Unclassified
+25,CLINICAL PHARMACY -,00,00,Unclassified
+1,Clinical Pharmacolog,60,60,Pharmacology
+1,Clinical Perfusionis,00,00,Unclassified
+3,CLINICAL PATHOLOGY,72,72,Anatomic/Clinical Path
+31,Clinical Nurse Speci,00,00,Unclassified
+8,Clinical Neuropsychologist,C1,C1,Psychologist
+2,Clinical Neuropsycho,44,44,General Neurology
+8,Clinical Neurophysiology,E1,E1,Allied Health Professional - Other
+4,Clinical Neurophysio,44,44,General Neurology
+2,Clinical Genetics,A2,A2,Internal Med Genetics
+2,Clinical Counselor,00,00,Unclassified
+26,Clinical Cardiac Ele,D8,D8,Cardiac Electrophysiology
+1,Clinical Biochem/Mol,00,00,Unclassified
+3,Clinical,00,00,Unclassified
+1,"Clinic/center, Adole",61,61,General Pediatrics
+1,Clinic or Group Prac,00,00,Unclassified
+1,Cli Neurophysiology,D8,D8,Cardiac Electrophysiology
+1,Cli Cardiac Electrop,D8,D8,Cardiac Electrophysiology
+25,CLERICAL RESEARCH,00,00,Unclassified
+1,Chronic Fatigue Med,00,00,Unclassified
+1,Chronic Disease,00,00,Unclassified
+29,Chiropractor,00,00,Unclassified
+8,Chiropractic Medicine,E1,E1,Allied Health Professional - Other
+37,Chiropractic Medicin,00,00,Unclassified
+5,Chiropractic,00,00,Unclassified
+1,CHILD PSYCHOLOGY,13,13,Child/Adoles Psych
+1,"Child Psychiatry, Ps",13,13,Child/Adoles Psych
+1,CHILD PSYCHIATRY,13,13,Child/Adoles Psych
+25,CHILD NEUROLOGY,12,12,Pediatric Neurology
+25,Child Life Specialis,61,61,General Pediatrics
+9,CHILD LIFE,61,61,General Pediatrics
+8,Child and Adolescent Psychiatry,13,13,Child/Adoles Psych
+36,CHILD AND ADOLESCENT,13,13,Child/Adoles Psych
+1,CHILD ABUSE PEDIATRI,00,00,Unclassified
+1,CHILD & ADOLESCENT,13,13,Child/Adoles Psych
+1,CHEMOPHARMACOLOGY,60,60,Pharmacology
+1,Chemical Pathology,72,72,Anatomic/Clinical Path
+1,Certified Scrub Tech,00,00,Unclassified
+8,Certified Registered Nurse Anesthetist,D1,D1,CRNA
+36,Certified Registered,00,00,Unclassified
+1,Certified Reg Nurse,00,00,Unclassified
+25,CERTIFIED PHYSICIAN,00,00,Unclassified
+25,CERTIFIED OCCUPATION,00,00,Unclassified
+9,CERTIFIED NURSE MIDWIFE,B1,B1,Midwifery
+6,Certified Nurse Midw,B1,B1,Midwifery
+25,CERTIFIED NURSE MID-,B1,B1,Midwifery
+1,Certified Nurse Aide,00,00,Unclassified
+1,CERTIFIED MEDICAL AS,39,39,General Internal Med
+1,CERTIFIED CLINICAL NURSE SPECIALIST,E1,E1,Allied Health Professional - Other
+5,Certified Clinical N,00,00,Unclassified
+1,Certified Athletic T,00,00,Unclassified
+1,CERT NURSE MIDWIFE,B1,B1,Midwifery
+1,Cert Clinical Nurse,00,00,Unclassified
+2,CASE MANGER,00,00,Unclassified
+1,CASE MANAGER,0,"0 ",UNKNOWN
+28,CASE MANAGER,00,00,Unclassified
+4,CASE MANAGEMENT,00,00,Unclassified
+3,Care Managment Servi,00,00,Unclassified
+8,Care Management,E1,E1,Allied Health Professional - Other
+25,CARE COORDINATOR,00,00,Unclassified
+28,CARDIOVASCULAR SURGE,C5,C5,Thoracic Surgery
+1,Cardio-vascular Surg,C5,C5,Thoracic Surgery
+6,CARDIOVASCULAR SURG,81,81,Cardiothoracic Surg
+1,Cardiovascular Perfu,00,00,Unclassified
+1,Cardiovascular Perfu,10,10,Cardiology
+11,Cardiovascular Disea,10,10,Cardiology
+1,Cardiovascular,10,10,Cardiology
+1,Cardiovasc Disease,10,10,Cardiology
+8,Cardiothoracic Surgery,81,81,Cardiothoracic Surg
+3,Cardiothoracic Surge,81,81,Cardiothoracic Surg
+37,CARDIOTHORACIC SURGE,C5,C5,Thoracic Surgery
+1,Cardio-thoracic Surg,C5,C5,Thoracic Surgery
+2,CARDIOPULMONARY,10,10,Cardiology
+1,Cardiology/Electroph,D8,D8,Cardiac Electrophysiology
+1,Cardiology Med,10,10,Cardiology
+2,Cardiology Intervent,E2,E2,Interventional Cardiology
+25,Cardiology - Telemed,10,10,Cardiology
+60,CARDIOLOGY,10,10,Cardiology
+1,Cardiac Surgery Medi,C5,C5,Thoracic Surgery
+4,Cardiac Surgery,C5,C5,Thoracic Surgery
+8,Cardiac Rehabilitation,E1,E1,Allied Health Professional - Other
+37,Cardiac Rehabilitati,69,69,Physical Med/Rehab
+1,CARDIAC REHAB,69,69,Physical Med/Rehab
+1,Cardiac Imaging,00,00,Unclassified
+1,Cardiac Imaging,10,10,Cardiology
+5,Cardiac Electrophysi,D8,D8,Cardiac Electrophysiology
+1,CAR THORACIC SURG,81,81,Cardiothoracic Surg
+1,CANCER PREVENTION,A3,A3,Internal Med Heme/Onc
+1,CANCER MEDICINE,A3,A3,Internal Med Heme/Onc
+36,BURN SURGERY,80,80,Trauma
+1,Burn Surgery,91,91,Burn Treatment
+1,Burn Med,00,00,Unclassified
+1,BREAST UNDIAGNOSED,0,"0 ",UNKNOWN
+1,BREAST SURVIVORSHIP,0,"0 ",UNKNOWN
+40,BREAST SURGERY,32,32,General Surgery
+1,BREAST MEDICAL ONCOL,29,29,Gyn Oncology
+1,BREAST IMAGING,00,00,Unclassified
+1,Breast Clinic,00,00,Unclassified
+4,BONE MARROW TRANS,B3,B3,Bone Marrow Transpla
+1,Bloodbanking/transfu,08,08,Blood Banking/Transf
+1,Bio-Behavioral Med,59,59,General Psychiatry
+1,BEHAVIORAL TREATMENT,59,59,General Psychiatry
+1,Behavioral Health,00,00,Unclassified
+44,Behavioral Health,59,59,General Psychiatry
+1,BEHAVIORAL,00,00,Unclassified
+1,Bariatrics,00,00,Unclassified
+36,BARIATRICS,39,39,General Internal Med
+5,BARIATRICS,D4,D4,Bariatric Surgery
+1,b2,0,"0 ",UNKNOWN
+1,Autotransfusion,00,00,Unclassified
+1,Audiology Med,D5,D5,Audiology/Speech Pathology
+41,AUDIOLOGY,D5,D5,Audiology/Speech Pathology
+2,AUDIOLOGIST,D5,D5,Audiology/Speech Pathology
+1,ATHLETIC TRAINER,00,00,Unclassified
+1,Assisted Living,0,"0 ",UNKNOWN
+2,ANTICOAGULATION MANA,00,00,Unclassified
+8,Anticoagulation,00,00,Unclassified
+1,Anp,00,00,Unclassified
+1,ANESTH-PAIN MEDICINE,85,85,Pain Management
+1,"Anesthesiology, Pedi",06,06,Anesthesia
+1,"Anesthesiology, Pain",85,85,Pain Management
+1,"Anesthesiology, Obst",06,06,Anesthesia
+1,"Anesthesiology, Inte",06,06,Anesthesia
+1,Anesthesiology Pain,85,85,Pain Management
+1,Anesthesiology Med,C6,C6,Physician Assistant – Medicine
+1,Anesthesiology Assis,C6,C6,Physician Assistant – Medicine
+1,ANESTHESIOLOGY - PED,06,06,Anesthesia
+1,ANESTHESIOLOGY - PAI,06,06,Anesthesia
+51,ANESTHESIOLOGY,06,06,Anesthesia
+1,Anesthesiology,52,52,General OB/Gyn
+1,ANESTHESIA/PAIN MGMT,85,85,Pain Management
+25,ANESTHESIA TECH,00,00,Unclassified
+8,Anesthesia,06,06,Anesthesia
+3,Anatomical Pathology,72,72,Anatomic/Clinical Path
+1,ANATOMICAL & CLINICA,72,72,Anatomic/Clinical Path
+1,Anatomic/clinical Pa,72,72,Anatomic/Clinical Path
+2,Anatomic Pathology,72,72,Anatomic/Clinical Path
+1,AMBULATORY SURGERY,22,22,Emergency Med
+1,Ambulatory Services,22,22,Emergency Med
+8,Ambulatory Care Manager,E1,E1,Allied Health Professional - Other
+1,Ambulatory Care,22,22,Emergency Med
+7,Alternative Medicine,00,00,Unclassified
+2,Allopathic and Osteo,00,00,Unclassified
+1,Allied Health Profes,00,00,Unclassified
+4,Allergy/immunology,04,04,Allergy/Immunology
+1,Allergy Med,04,04,Allergy/Immunology
+1,Allergy Immunology,04,04,Allergy/Immunology
+8,Allergy and Immunology,04,04,Allergy/Immunology
+38,Allergy and Immunolo,04,04,Allergy/Immunology
+2,ALLERGY & IMMUNOLOGY,04,04,Allergy/Immunology
+50,Allergy,04,04,Allergy/Immunology
+1,Ahp Ii & Iii Psychia,00,00,Unclassified
+1,Ahp Ii,00,00,Unclassified
+1,Ahp I,00,00,Unclassified
+25,AESTHETICS,00,00,Unclassified
+2,Aerospace Medicine,00,00,Unclassified
+3,Aerospace Medicine,39,39,General Internal Med
+1,Advanced Practice Nu,00,00,Unclassified
+1,ADVANCED PRACTICE MI,00,00,Unclassified
+8,ADVANCED ILLNESS MANAGEMENT,D3,D3,Palliative Care
+5,Advanced Heart Failu,10,10,Cardiology
+25,Advance Practice Reg,00,00,Unclassified
+2,Adult Nurse Practiti,C6,C6,Physician Assistant – Medicine
+2,ADULT HEALTH,39,39,General Internal Med
+1,Adult Congenital Hea,39,39,General Internal Med
+46,Adolescent Medicine,86,86,Adolescent Med
+2,Administration,00,00,Unclassified
+1,Administration,99,99,Unknown
+1,Addiction Psychiatry,A1,A1,Addiction
+46,Addiction Medicine,A1,A1,Addiction
+1,Addiction Med,A1,A1,Addiction
+2,Acute Hospital,39,39,General Internal Med
+1,Acute Hospital,99,99,Unknown
+1,Acute Care Hospital,00,00,Unclassified
+2,Acute Care Hospital,39,39,General Internal Med
+4,Acute Care,39,39,General Internal Med
+1,Acupunture,00,00,Unclassified
+13,Acupuncture,00,00,Unclassified
+1,ABDOMINAL IMAGING,75,75,Gen Diag/Interv Radiology
+1,98,A3,A3,Internal Med Heme/Onc
+1,97,27,27,Gastroenterology
+1,9,99,99,Unknown
+1,6,04,04,Allergy/Immunology
+29,6,06,06,Anesthesia
+1,5099,00,00,Unclassified
+2,4,"0 ","0 ",UNKNOWN
+38,4,04,04,Allergy/Immunology
+1,4,06,06,Anesthesia
+2,11,00,00,Unclassified
+1,"0 ","0 ","0 ",UNKNOWN
+2,*UNSPECIFIED,0,"0 ",UNKNOWN
+4,*UNSPECIFIED,99,99,Unknown
